@@ -40,3 +40,13 @@ article {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
+
+/* style icon */
+.fa-book {
+  font-size: 2rem;
+  color: gold;
+  position: fixed;
+  top: 2%;
+  right: 2%;
+  cursor: pointer;
+}
